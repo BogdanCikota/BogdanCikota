@@ -1,4 +1,3 @@
-
 ## Fullstack Web Developer
 
 ## Frontend
@@ -13,4 +12,8 @@
 <b>All projects are sorted on <a href="https://github.com/BogdanCikota?tab=projects">Projects<a/> tab</b>
 <hr/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanCikota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanCikota&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanCikota&theme=light&layout=compact)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
