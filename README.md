@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**BogdanCikota/BogdanCikota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fullstack Web Developer
 
-Here are some ideas to get you started:
+## Frontend
+![](https://img.shields.io/badge/-HTML5%26CSS3-lightgrey) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React-blue)
+<br/>
+![](https://img.shields.io/badge/SASS-SCSS-brightgreen) ![](https://img.shields.io/badge/-Bootstrap-9cf)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Backend
+![](https://img.shields.io/badge/Node-Express-success)
+![](https://img.shields.io/badge/MongoDB-Mongoose-purple)
+
+<b>All projects are sorted on <a href="https://github.com/BogdanCikota?tab=projects">Projects<a/> tab</b>
+<hr/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanCikota&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
