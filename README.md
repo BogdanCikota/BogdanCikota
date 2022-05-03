@@ -1,4 +1,4 @@
-## JavaScript Developer
+## Web Developer
 
 ## Frontend
 ![](https://img.shields.io/badge/-HTML5%26CSS3-lightgrey) ![](https://img.shields.io/badge/-JavaScript-green) ![](https://img.shields.io/badge/-React-blue)
